@@ -1,0 +1,33 @@
+{
+  "target_titles": [
+    "Senior DevOps Engineer",
+    "Platform Engineer",
+    "Cloud DevOps Engineer",
+    "Site Reliability Engineer",
+    "DevSecOps Engineer"
+  ],
+  "locations": [
+    "Pune",
+    "Remote",
+    "India"
+  ],
+  "skills": [
+    "AWS",
+    "GCP",
+    "Azure",
+    "Kubernetes",
+    "Docker",
+    "Terraform",
+    "Ansible",
+    "Helm",
+    "ArgoCD",
+    "GitOps",
+    "CI/CD",
+    "GKE",
+    "EKS",
+    "Prometheus",
+    "Grafana",
+    "Python",
+    "Linux"
+  ]
+}
